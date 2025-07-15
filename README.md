@@ -1,4 +1,4 @@
-cd# Disease Prediction System
+## Disease Prediction System
 
 A web-based application that predicts diseases based on user-input symptoms and provides relevant information such as disease description, precautions, medications, recommended diets, and workouts.
 
