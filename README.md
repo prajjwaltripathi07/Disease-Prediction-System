@@ -68,4 +68,3 @@ Below are slots for 3 example pictures of the application:
 |------------------------|------------------------|------------------------|
 | ![](static/image1.png) | ![](static/image2.png) | ![](static/image3.png) |
 
-Replace `img1.png`, `img2.png`, and `img3.png` in the `static/` folder with your actual images to display them here.
