@@ -64,8 +64,8 @@ This project is for educational purposes.
 ## Example Screenshots
 Below are slots for 3 example pictures of the application:
 
-| Screenshot 1         | Screenshot 2         | Screenshot 3          |
-|----------------------|----------------------|-----------------------|
-| ![](static/img1.png) | ![](static/img2.png) | ! [](static/img3.png) |
+| Screenshot 1           | Screenshot 2           | Screenshot 3           |
+|------------------------|------------------------|------------------------|
+| ![](static/image1.png) | ![](static/image2.png) | ![](static/image3.png) |
 
 Replace `img1.png`, `img2.png`, and `img3.png` in the `static/` folder with your actual images to display them here.
